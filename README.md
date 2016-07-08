@@ -8,5 +8,5 @@ The `and` is evaluated inside Verilator.
 
 Ubuntu 16.04:
 
-    sudo apt-get libsdl2-dev install verilator
+    sudo apt-get install libsdl2-dev verilator
     make
